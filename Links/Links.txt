@@ -1,0 +1,4 @@
+Make simulated coordinates with Gedmatch: https://www.exploreyourdna.com/simulated-g25.aspx
+Tools: https://www.exploreyourdna.com/tools.aspx
+Vahaduo: https://vahaduo.github.io/vahaduo/
+Oracle: https://www.promotopic.com/calculator/vahd.html
